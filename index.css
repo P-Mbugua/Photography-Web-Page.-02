@@ -1,0 +1,120 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: aquamarine;
+    background-size: cover;
+    background-position: center;
+   
+   
+    font-family: sans-serif;
+}
+.Menu-bar {
+    background: rgb(0, 100, 0 );
+    text-align: center;
+}
+
+.Menu-bar ul {
+    display: inline-flex;
+    list-style-type: none;
+    color: white;
+}
+
+.Menu-bar ul li {
+    width: 120px;
+    margin: 15px;
+    padding: 4px;
+}
+
+.Menu-bar ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+.Active, .Menu-bar ul li:hover {
+    background:#2bab0d;
+    border: 3px;
+    columns: 3;
+} 
+
+body {
+    background-image: url(https://media.macphun.com/img/uploads/macphun/blog/2246/_1.jpg?q=75&w=1710&h=906&resize=cover) ;
+    background: cover;
+    padding-left: 30px;
+    padding-right: 30px;
+   
+
+}
+
+h1 {
+    font-size: 35px;
+    color: rgb(4, 20, 245);
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 220px;
+    padding-top: 20px;
+    padding-bottom: -300px;
+}
+
+
+img .logo {
+margin-top: 700px;
+}
+
+h2 {
+    color: #2bab0d;
+    padding-top: 5px;
+    font-size: 26px;
+
+}
+
+h3 {
+    padding-top: 5px;
+
+
+}
+
+h4{
+
+    padding-top: 5px;
+
+}
+
+h5{
+
+
+
+}
+
+h6{
+font-size: 15px;
+color: rgb(74, 116, 231);
+
+
+}
+
+h6.aim {
+    color: blueviolet;
+    padding-left: 270px;
+    padding-top: 0px;
+}
+
+div{
+    border: 1px solid white;
+    align-items: center;
+}
+
+button :hover {
+    background: blue;
+}
+
+.members img  {
+    display: inline-flex;
+    list-style-type: none;
+}
+
+.names li{
+    display: inline-flex;
+    list-style-type: none;
+}
